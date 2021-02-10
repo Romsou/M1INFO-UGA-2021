@@ -2,7 +2,9 @@
 
 ## Workflow github
 
-Pour participer: Créer une branche de la forme <name>-contribution, faites vos modifications, puis créez une pull request contenant à minima la description de vos ajouts ou modifications.
+Pour participer: Créer une branche de la forme 
+```<name>-contribution, ```
+faites vos modifications, puis créez une pull request contenant à minima la description de vos ajouts ou modifications.
 
 En cas de problème: Créez une issue comportant une description du problème à régler avec les labels correspondant.
 ## Organisation
