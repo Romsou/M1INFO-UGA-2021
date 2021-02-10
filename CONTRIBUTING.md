@@ -1,5 +1,10 @@
 # Comment contribuer ?
 
+## Workflow github
+
+Pour participer: Créer une branche, faites vos modifications, puis créez une pull request contenant à minima la description de vos ajouts ou modifications.
+
+En cas de problème: Créez une issue comportant une description du problème à régler avec les labels correspondant.
 ## Organisation
 
 A quiconque souhaite participer, veillez à garder une hiérarchie propre. Chaque matière à son propre dossier et contient 0 à 3 sous-dossier:
