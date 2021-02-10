@@ -4,11 +4,11 @@
 
 **Modification concerns:**
 
-- [] Complexité
-- [] Cryptologie
-- [] Cybersécurité
-- [] Anglais
-- [] Réseau
-- [] Devops
-- [] Planification auto
-- [] Autres
+- [ ] Complexité
+- [ ] Cryptologie
+- [ ] Cybersécurité
+- [ ] Anglais
+- [ ] Réseau
+- [ ] Devops
+- [ ] Planification auto
+- [ ] Autres
